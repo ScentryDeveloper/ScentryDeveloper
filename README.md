@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ScentryDeveloper
+- 👀 I’m interested in https://scentry.tk
+- 🌱 I’m currently learning Krunker.io's terrible development & management
+- 💞️ I’m looking to collaborate on https://scentry.tk
+- 📫 You can't reach me
